@@ -1,4 +1,4 @@
 print("Hello kis")
-print("Velkommen til etheren")
+print("Velkommen hjem")
 
 x = 4+2
