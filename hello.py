@@ -7,5 +7,3 @@ x = 4+2
 x = 4+2
 
 y = "Feil branch"
-
-heihei
